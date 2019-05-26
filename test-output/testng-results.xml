@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18293" started-at="2019-05-09T19:39:10Z" finished-at="2019-05-09T19:39:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18293" started-at="2019-05-09T19:39:10Z" finished-at="2019-05-09T19:39:28Z">
+      <class name="com.acttime.customerTest.customerTest">
+        <test-method status="PASS" signature="configBeforeSuite()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configBeforeSuite" is-config="true" duration-ms="13" started-at="2019-05-10T01:09:10Z" finished-at="2019-05-10T01:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeSuite -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configBC" is-config="true" duration-ms="4071" started-at="2019-05-10T01:09:10Z" finished-at="2019-05-10T01:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configBM" is-config="true" duration-ms="1780" started-at="2019-05-10T01:09:14Z" finished-at="2019-05-10T01:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomer()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="createCustomer" duration-ms="9082" started-at="2019-05-10T01:09:16Z" finished-at="2019-05-10T01:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configAM" is-config="true" duration-ms="211" started-at="2019-05-10T01:09:25Z" finished-at="2019-05-10T01:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configBM" is-config="true" duration-ms="330" started-at="2019-05-10T01:09:25Z" finished-at="2019-05-10T01:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerWithDescTest()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="createCustomerWithDescTest" duration-ms="2414" started-at="2019-05-10T01:09:25Z" finished-at="2019-05-10T01:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerWithDescTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configAM" is-config="true" duration-ms="202" started-at="2019-05-10T01:09:28Z" finished-at="2019-05-10T01:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configAc" is-config="true" duration-ms="186" started-at="2019-05-10T01:09:28Z" finished-at="2019-05-10T01:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+        <test-method status="PASS" signature="configAftereSuite()[pri:0, instance:com.acttime.customerTest.customerTest@3cb5cdba]" name="configAftereSuite" is-config="true" duration-ms="1" started-at="2019-05-10T01:09:29Z" finished-at="2019-05-10T01:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAftereSuite -->
+      </class> <!-- com.acttime.customerTest.customerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
